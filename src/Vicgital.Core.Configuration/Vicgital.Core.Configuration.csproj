@@ -4,11 +4,11 @@
 		<TargetFramework>net8.0</TargetFramework>
 		<PackageId>Vicgital.Core.Configuration</PackageId>
 		<PackageDescription>.NET library for Configuration management</PackageDescription>
-		<PackageVersion>1.0.0</PackageVersion>
+		<PackageVersion>1.0.1</PackageVersion>
 		<Title>Vicgital.Core.Configuration</Title>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<AssemblyName>Vicgital.Core.Configuration</AssemblyName>
-		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<AssemblyVersion>1.0.1.0</AssemblyVersion>
 		<Authors>Victor Alonso</Authors>
 		<Company>Vicgital</Company>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
@@ -23,8 +23,8 @@
 		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.1" />
 		<PackageReference Include="Microsoft.Extensions.Configuration.AzureAppConfiguration" Version="8.0.0" />
 		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.1" />
-		<PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="9.0.0" />
-		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="9.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.1" />
 	</ItemGroup>
 
 </Project>
