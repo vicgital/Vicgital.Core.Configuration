@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D29C7C88-92CF-4436-B423-89AAD08D5820}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{0B553CFC-3B49-4591-8529-2B863A97C3FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "devops", "devops", "{8B53C8D2-FAE0-4465-A683-BCB176D2B612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vicgital.Core.Configuration", "src\Vicgital.Core.Configuration\Vicgital.Core.Configuration.csproj", "{0AE218C6-5703-45F7-BB1C-5362E6D0F347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE218C6-5703-45F7-BB1C-5362E6D0F347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE218C6-5703-45F7-BB1C-5362E6D0F347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE218C6-5703-45F7-BB1C-5362E6D0F347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE218C6-5703-45F7-BB1C-5362E6D0F347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0AE218C6-5703-45F7-BB1C-5362E6D0F347} = {D29C7C88-92CF-4436-B423-89AAD08D5820}
+	EndGlobalSection
+EndGlobal
